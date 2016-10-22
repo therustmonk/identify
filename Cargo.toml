@@ -1,0 +1,10 @@
+[package]
+name = "identify"
+version = "0.1.0"
+readme = "README.md"
+authors = ["Denis Kolodin <deniskolodin@gmail.com>"]
+description = "Basic identification traits."
+repository = "https://github.com/DenisKolodin/identify"
+license = "MIT/Apache-2.0"
+
+[dependencies]
